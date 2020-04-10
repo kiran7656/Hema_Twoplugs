@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.testCases.TP_TC_021"/>
+      <class name="com.testCases.TP_TC_027"/>
+      <class name="com.testCases.TP_TC_028"/>
+      <class name="com.testCases.TP_TC_029"/>
+      <class name="com.testCases.TP_TC_047"/>
+      <class name="com.testCases.TP_TC_095"/>
+      <class name="com.testCases.TP_TC_096"/>
+      <class name="com.testCases.TP_TC_097"/>
+      <class name="com.testCases.TP_TC_098"/>
+      <class name="com.testCases.TP_TC_099"/>
+      <class name="com.testCases.TP_TC_114"/>
+      <class name="com.testCases.TP_TC_115"/>
+      <class name="com.testCases.TP_TC_116"/>
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
